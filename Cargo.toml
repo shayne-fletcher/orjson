@@ -50,7 +50,7 @@ arrayvec = { version = "0.7", default_features = false, features = ["std", "serd
 associative-cache = { version = "2", default_features = false }
 beef = { version = "0.5", default_features = false, features = ["impl_serde"] }
 bytecount = { version = "^0.6.7", default_features = false, features = ["runtime-dispatch-simd"] }
-chrono = { version = "=0.4.34", default_features = false }
+chrono = { version = "0.4.34", default_features = false }
 compact_str = { version = "0.7", default_features = false, features = ["serde"] }
 encoding_rs = { version = "0.8", default_features = false }
 half = { version = "2", default_features = false, features = ["std"] }
